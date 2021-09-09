@@ -1,0 +1,7 @@
+name: Advancements Plus
+version: '${project.version}'
+main: fr.edrow.advancements_plus.advancementsplus.AdvancementsPlus
+api-version: 1.17
+authors: [ Edrow ]
+description: Plugin adding more advancements inspired by Datapacks
+website: plugins.dawbee.fr
